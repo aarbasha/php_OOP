@@ -1,0 +1,31 @@
+class and Object
+-class is a blueprint that u can create object form
+-object is a mmber in tha main application
+-class has probrites and method
+
+-varibols inside class = [probrty]
+-varibols outside class = [varibols]
+-function inside class = [Method]
+-function outside class = [function]
+
+- [class] = class keyword
+- [new] = new object k
+- [ public , privet , protected] = visiblity markers 
+- [ -> ] = object operaor
+- [$This] = pseudo varible 
+- [::] = scope Resolution operatior
+
+apple
+-class          = apple blueprint desing
+-object         =iphone that chania media
+-applcation     =apple store
+
+Web applcation regestry
+-class          = code to add new membar
+-object         =the membars
+-applcation     =web application regestring
+
+blog system
+-class          = code to add new post , article , news , information
+-object         =post artcle news information
+-applcation     =apple store
